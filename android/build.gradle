@@ -75,7 +75,7 @@ android {
         implementation 'com.google.android.libraries.navigation:navigation:6.2.2'
         // Add required Google Play Services (excluding play-services-maps to avoid conflicts)
         implementation 'com.google.android.gms:play-services-base:18.5.0'
-        implementation 'com.google.android.gms:play-services-basement:18.4.0'
+        implementation 'com.google.android.gms:play-services-basement:18.7.1'
         implementation 'com.google.android.gms:play-services-tasks:18.2.0'
         testImplementation 'org.jetbrains.kotlin:kotlin-test'
         testImplementation 'io.mockk:mockk:1.13.8'
