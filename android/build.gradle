@@ -72,7 +72,7 @@ android {
     dependencies {
         implementation 'androidx.car.app:app:1.4.0'
         implementation 'androidx.car.app:app-projected:1.4.0'
-        implementation 'com.google.android.libraries.navigation:navigation:6.2.2'
+        implementation 'com.google.android.libraries.navigation:navigation:6.3.0'
         // Add required Google Play Services (excluding play-services-maps to avoid conflicts)
         implementation 'com.google.android.gms:play-services-base:18.5.0'
         implementation 'com.google.android.gms:play-services-basement:18.4.0'
