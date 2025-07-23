@@ -76,7 +76,7 @@ android {
         // Add required Google Play Services (excluding play-services-maps to avoid conflicts)
         implementation 'com.google.android.gms:play-services-base:18.5.0'
         implementation 'com.google.android.gms:play-services-basement:18.4.0'
-        implementation 'com.google.android.gms:play-services-tasks:18.2.0'
+        implementation 'com.google.android.gms:play-services-tasks:18.3.2'
         testImplementation 'org.jetbrains.kotlin:kotlin-test'
         testImplementation 'io.mockk:mockk:1.13.8'
         testImplementation 'junit:junit:4.13.2'
